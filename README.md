@@ -12,3 +12,8 @@ Example how to use complex components in bitrix
 
 - /user_actions_count/index.php
 - /local/components/mycompany/user_actions_count.widget/
+
+### 3. `element.list` - Iblock element list example
+
+- /list/index.php
+- /local/components/mycompany/element.list/
