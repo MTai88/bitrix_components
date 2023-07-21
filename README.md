@@ -17,3 +17,8 @@ Example how to use complex components in bitrix
 
 - /list/index.php
 - /local/components/mycompany/element.list/
+
+### 4. `myevents.widget` - Upcoming user events widget. CIBlockElement::GetList with permissions check & subquery
+
+- /events_widget/index.php
+- /local/components/mycompany/myevents.widget/
